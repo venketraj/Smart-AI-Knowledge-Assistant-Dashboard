@@ -1,16 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
-### Updated Curated Documentation with Diagrams and GitHub Repo Setup
-
-Absolutely, I'd be happy to expand the documentation! Based on your request, I've refined the previous version to include:
-
-- **Diagrams:** Since this is a text-based response, I can't generate or attach actual image files (like PNGs), but I've incorporated simple, renderable diagrams using Markdown-compatible Mermaid syntax. You can paste this into tools like GitHub, Obsidian, or Markdown viewers (e.g., Typora) to visualize them interactively. I've added a high-level architecture diagram and a flowchart for the query process.
-- **GitHub Repo Setup:** I've added a new section with step-by-step instructions to create and set up a GitHub repository for this project. This includes sharing tips, as you mentioned wanting to share with someone. Note: I can't create the repo for you (as an AI, I don't have access to your GitHub account), but these steps are straightforward and based on current best practices as of July 29, 2025.
-
-The rest of the documentation remains similar for consistency, with minor updates for clarity. As before, convert this Markdown to PDF/Word using tools like [Pandoc](https://pandoc.org) or [Markdown to PDF online converter](https://markdown-to-pdf.com).
-
-If you need more advanced diagrams (e.g., via Draw.io exports) or help with actual repo creation, provide more details!
-
 # Smart Knowledge Assistant Dashboard: Implementation Documentation
 
 ## Project Overview
@@ -343,6 +330,4 @@ This setup makes the project shareable in minutes—anyone can clone, run, or co
 - **Project Inspiration:** [Perplexity AI Docs](https://docs.perplexity.ai) (original LLM used).
 - **Diagram Tools:** [Mermaid Live Editor](https://mermaid.live), [Draw.io](https://app.diagrams.net) for exporting images.
 - **GitHub Guides:** [Creating a Repo](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository), [Git Basics](https://git-scm.com/docs/gittutorial).
-
-This documentation is comprehensive yet concise for sharing. For customizations, contact the curator (Perplexity AI).
 
